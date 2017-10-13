@@ -1,0 +1,7 @@
+Tasks:
+- Build webpage for actor project
+  - make the HTML pages and views and link them up in the urls.py
+  - put the banner along the top of the base.html so it's always visible
+  - make a home page, an "About" page, and a link to orchard; all of those in a bootstrap navbar
+  - images for webpage stored in static/img
+  - put banner in middle and add whitespace on both sides
