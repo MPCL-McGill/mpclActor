@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'actor',
     'django_extensions',
     'rest_framework',
+    'psycopg2',
 ]
 
 MIDDLEWARE = [
