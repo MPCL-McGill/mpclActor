@@ -1,1 +1,5 @@
 actor/settings.py
+actor_env
+secret_key.txt
+db_password.txt
+*__pycache__*
